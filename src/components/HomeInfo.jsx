@@ -21,7 +21,7 @@ const renderContent ={
     ),
     2:(
         <h1><InfoBox 
-        text="Worked with many companies and picked up many skills along the way"
+        text="Working for projects helped me pick up many skills along the way"
         link = "/about"
         btnText= "Learn More"
         />
