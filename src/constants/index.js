@@ -24,6 +24,7 @@ import {
   tailwindcss,
   threads,
   typescript,
+  salesforce,
 } from "../assets/icons";
 
 export const skills = [
@@ -109,8 +110,8 @@ export const experiences = [
   {
     title: "Software Deveoper Intern (AMTS)",
     company_name: "Salesforce",
-    icon: starbucks,
-    iconBg: "#accbe1",
+    icon: salesforce,
+    // iconBg: "#accbe1",
     date: "May 2025 - July 2025",
     points: [
       "Dynamic Health Reports: Transformed static cell health reports into flexible, customizable templates,eliminating manual code changes.",
